@@ -1,0 +1,10 @@
+streamlit
+zenml
+mlflow
+scikit-learn
+numpy 
+pandas 
+seaborn
+matplotlib
+catboost
+markupsafe
