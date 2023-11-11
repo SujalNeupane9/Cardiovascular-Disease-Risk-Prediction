@@ -8,3 +8,4 @@ seaborn
 matplotlib
 catboost
 markupsafe
+tensorflow
