@@ -32,11 +32,11 @@ We have another pipeline, the deployment.py, that extends the training pipeline,
 We can run the training pipeline by running the following code.
 
 * The training pipeline:
-```bash
-python run_pipeline.py
-```
+  ```bash
+  python run_pipeline.py
+  ```
 
 * The continuous deployment pipeline:
   ```bash
-python run_deployment.py
-```
+  python run_deployment.py
+  ```
